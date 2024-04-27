@@ -13,7 +13,8 @@
 }
 
 .navbar.sticky .navbar-toggler span,
-.navbar.sticky .navbar-brand {
+.navbar.sticky .navbar-brand,
+.navbar.sticky ul a {
   color: var(--font-color-dark);
 }
 
